@@ -89,16 +89,15 @@ Developed a computer vision model for detecting swimming pools from satellite im
 
 
 
-## 📊 GitHub Stats
 
 <!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bachir00&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bachir00&theme=tokyonight" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachir00&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
