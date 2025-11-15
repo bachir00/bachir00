@@ -78,13 +78,6 @@
 
 
 
-## 🚀 Featured Projects
-
-### 🛰️ YOLOv5 Pool Detection (Company Project - Private Repo)
-Developed a computer vision model for detecting swimming pools from satellite images using YOLOv5.  
-- Achieved high precision in detection (over 90% on test data)  
-- Applied advanced image processing and deep learning techniques  
-- Repository is private due to company confidentiality
 
 
 
