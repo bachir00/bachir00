@@ -5,7 +5,7 @@
 
 
 - 🎓 I’m an **AI & Big Data Engineer**  
-- 🤖 I focus on **Data Science, Generative AI, and Backend Python Development**  
+- 🤖 I focus on **Data Engineer, Science, Generative AI, and Backend Python Development**  
 - 🧠 I build projects in **Deep Learning, Computer Vision, Predictive Modeling, and Data Analytics**  
 - 🌱 My goal is to develop AI solutions that solve real-world problems  
 - 📝 I share my projects and experiments here on GitHub
