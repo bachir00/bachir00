@@ -6,10 +6,10 @@
 
 - 🎓 I’m an **AI & Big Data Engineer**  
 - 🤖 I focus on **Data Engineer, Science, Generative AI, and Backend Python Development**  
-- 🧠 I build projects in **Deep Learning, Computer Vision, Predictive Modeling, and Data Analytics**  
+- 🧠 I build projects in **Deep Learning, Computer Vision, Predictive Modeling,...**  
 - 🌱 My goal is to develop AI solutions that solve real-world problems  
 - 📝 I share my projects and experiments here on GitHub
-- 💬 Ask me about **Python, AI, Data Science, or Generative AI**  
+- 💬 Ask me about **Python, AI, Data , or Generative AI**  
 - 📫 Reach me at: **bassiroukane@esp.sn**  
 - 🌍 Portfolio: [github.com/bachir00](https://github.com/bachir00)  
 - 💼 LinkedIn: [linkedin.com/in/bassirou](https://www.linkedin.com/in/bassirou-kane-525529227/)
