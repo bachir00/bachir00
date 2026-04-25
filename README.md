@@ -29,4 +29,4 @@
 
 ---
 
-⭐️ *"Learning never stops — I use AI, Data Science, and Python to build solutions that solve real-world problems."*  
+⭐️ *"Learning never stops — I use AI and Data to build solutions that solve real-world problems."*  
