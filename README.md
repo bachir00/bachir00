@@ -2,7 +2,7 @@
 
 ### Data Specialist & AI |  Data Systems, Generative AI
 
-- 🎓 Working across ** Data-driven systems and Artificial Intelligence **
+- 🎓 Working across **Data-driven systems and Artificial Intelligence**
 - 🤖 Experience in **Data Engineering, Agentic AI and Generative AI**
 - 🧠 Building end-to-end solutions from data processing to intelligent applications
 - ⚙️ Focused on extracting value from data and applying AI to real-world problems
